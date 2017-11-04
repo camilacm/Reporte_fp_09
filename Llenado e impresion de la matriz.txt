@@ -1,0 +1,39 @@
+//llenado de matrices//
+#include <stdio.h>
+
+int M1 [3][3];
+int Cr, Cc;
+int renglon, columna;
+
+int main ()
+{
+    for(Cr=0; Cr<=3; Cr++)
+   {
+       for (Cc=0; Cc<=3; Cc++)
+       {
+            printf ("colocarse en la coordenada correspondiente [%d] [%d]", Cr,Cc);
+            scanf ("%d, &M1 [renglon] [columna]);
+       }
+    }
+    for (Cr=0; Cr<=3; Cr++)
+    {
+        for (Cc=0; Cc<=3; Cc++)
+        {
+             printf ("[%d]"), renglon, columna;
+        }
+        printf ("\n");
+//impresion de matrices//
+
+}
+
+for (Cr=0; Cr<=3; Cr++)
+{
+    for (Cc=0; Cc<=3; Cc++)
+   if (Cr=Cc)
+ 
+      printf ("llenar coordenada : [%d][%d] : [%d]", Cr, Cc, M1 [Cr][Cc]);
+  
+      }
+      return 0;
+      }
+          

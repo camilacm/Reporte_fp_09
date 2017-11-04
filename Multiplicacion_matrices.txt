@@ -1,0 +1,74 @@
+#include <stdio.h>
+
+int main ()
+{
+    int m1 [2][2];
+    int m2 [2][2];
+    int m3 [2][2];
+    int Cc1;
+    int Cc2;
+    int Cc3;
+    int Cr1;
+    int Cr2;
+    int Cr3;
+    int c1=2;
+    int c2=2;
+    int r1=2;
+    int r2=2;
+
+
+    if (c1=r2)
+    {
+
+
+        Cc1=0;
+        Cr1=0;
+        Cc2=0;
+        Cr2=0;
+        Cc3=0;
+        Cr3=0;
+        if(Cr1==r1)
+        {
+printf("termina multiplicacion de matrices");
+{
+    while (Cr1!=r1);
+        m3 [2][2]=m1 [2][2]* m2 [2][2];
+    Cc1=Cc1+1;
+    Cr2=Cr2+1;
+    if (Cc1=c1)
+    {
+
+
+        Cr1=Cr1+1;
+        Cc2=Cc2+1;
+        Cc3=Cc3+1;
+        if (Cr1=r1)
+        if (Cc2=c2)
+        if (Cc3=c1)
+        {
+
+
+        printf ("termina");
+        return (Cr1!=r1);
+        {
+            while (Cc1!=c1);
+        m3 [2][2]=m1 [2][2]*m2 [2][2]+m3 [2][2];
+            if (Cc2!=c1)
+            {
+                return (Cc1!=c1);
+                {
+
+                    prinf ("la multiplicacion no existe");
+                }
+
+            }
+        }
+
+    }
+}
+
+    }
+    }
+}
+}
+
